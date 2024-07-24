@@ -1,4 +1,4 @@
-### 3. Credit Card Fraud Detection
+### Credit Card Fraud Detection
 
 - Developed an advanced machine learning model in Python to detect credit card fraud using historical transaction data. 💳🕵️‍♀️
 
